@@ -2,7 +2,7 @@ cd - change directory
 git clone https://github.com/csodav/bmemotion_bmsvezerlo.git - mappa leklónozása
 
 feltöltés:
-git pull —ff-onl -> szerver frissítése
+git pull —ff-only -> szerver frissítése
 cd bmemotion_bmsvezerlo/->git gui-> staged changebe be kell rakni amit szeretnél-> commit->push
 
 letöltés:
